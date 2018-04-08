@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.navigationbar">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/udgam"
+        android:label="Udgam'18"
+        android:roundIcon="@drawable/udgam"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".splaash.WelcomeActivity"
+            android:label="Udgam'18"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="Udgam 18 Home"
+            android:exported="true"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Main2Activity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".gallery.gallery"
+            android:label="Gallery"
+            android:theme="@style/AppTheme.NoActionBar"/>
+        <activity
+            android:name=".Contacts.Contacts"
+            android:label="@string/title_activity_contacts"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Events.event.mData.eventDet"
+            android:label="eventDet"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Events.event.events"
+            android:label="Event"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Developers.developer"
+            android:label="Developers"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".about_udgam.udgam"
+            android:label="About Udgam"  />
+        <activity android:name=".guests.guest"
+            android:label="Guests"/>
+        <activity android:name=".Sponsers.sponser"
+            android:label="Sponsers"></activity>
+    </application>
+
+
+</manifest>

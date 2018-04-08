@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/udgamc2k18"
+    tools:context="com.example.navigationbar.MainActivity">
+
+
+
+    <com.github.clans.fab.FloatingActionMenu
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/floationg_action_menu"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        app:menu_showShadow="true"
+        app:menu_openDirection="up"
+        app:menu_backgroundColor="@android:color/transparent"
+        app:menu_labels_textColor="@color/colorText"
+        app:menu_colorNormal="@color/colorPrimary"
+        app:menu_labels_colorNormal="@color/colorBackground">
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="facebook"
+            android:src="@drawable/test"
+            android:id="@+id/flationg_item_facebook"
+            app:fab_colorNormal="@color/colorPrimary"
+            />
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="Feedback"
+            android:src="@drawable/whatsapp_two"
+            app:fab_colorNormal="@color/colorPrimary"
+            android:id="@+id/floating_item_whatsapp"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="Instagram"
+            android:src="@drawable/insta_two"
+            app:fab_colorNormal="@color/colorPrimary"
+            android:id="@+id/floating_item_insta"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="Gmail"
+            android:src="@drawable/gmail"
+            app:fab_colorNormal="@color/colorPrimary"
+            android:id="@+id/floating_item_mail"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="Youtube"
+            android:src="@drawable/youtube"
+            app:fab_colorNormal="@color/colorPrimary"
+            android:id="@+id/floating_item_youtube"/>
+
+        <com.github.clans.fab.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fab_size="mini"
+            app:fab_label="Udgam"
+            android:src="@drawable/site"
+            app:fab_colorNormal="@color/colorPrimary"
+            android:id="@+id/floating_item_site"/>
+
+
+    </com.github.clans.fab.FloatingActionMenu>
+
+
+</RelativeLayout>
+
+
+
+
+

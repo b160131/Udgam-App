@@ -1,0 +1,626 @@
+<resources>
+    <string name="app_name">navigationBar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_gallery">gallery</string>
+    <string name="title_activity_contacts">Contacts</string>
+    <string name="title_activity_events">event</string>
+
+
+    <string name="hdfc_bank">HDFC bank</string>
+    <string name="golden_sponser">Golden Sponser</string>
+
+
+
+    <string-array name="description">
+        <item> Let your intellect shine, let the rolling of brain race with every passing of minuten. introducing to you The Mixed Bag, the yet another event for the Udgam 18 .Come up and participate.</item>
+        <item>Each team consists of 8 members and 2 substitutes.
+
+The rope must be pulled underarm and nobody’s elbow must go below the knee otherwise a foul will be called.
+
+No knots or loops shall be made in the rope, nor shall it be locked across any part of the body of any member of the team.
+
+In case any team found breaking the rules would be disqualified.
+
+Both teams pull the rope, the winner being the team who manage to pull the mark on the rope closest to their opponents over the center line.
+
+Matches are often a best of 3 pull, the winner winning 2 out of the 3 pulls.
+
+Tournament will be conducted on knock-out basis.
+Note:
+
+    In case of any argument, committee decision would be considered as final decision.
+ </item>
+        <item>
+
+    Each team shall consist of two members.
+
+    The competition will consist of several levels and each level will have different segments.
+
+    In the first segment each team will be given a time of 3 minutes in which that team will present and elaborate their points.
+
+    The team supposed to speak in motion will be the one to introduce the topic and elaborate their views as to why they are favouring the motion.
+
+    The team opposing the motion will be next to speak(again for 3minutes).
+
+    Next segment will be of 5 minutes of affirmations and rebuttals between the favouring and opposing teams.
+
+    In the end jury and audience will be asking questions to the debaters.
+
+    8Topics will be given a day before the event, but favour or motion will be decided few hours before the event.
+</item>
+        <item>
+
+    In the first round the topic will be given on the spot.
+    In the second and final round topic will be given a day before.
+
+    Use of color is not mandatory i.e pencil art and color art both are allowed.
+
+    Judging Criteria includes concept, creativity ,neatness and artistic skills.
+
+    Entry Fee :Rs 30 per head
+ </item>
+        <item>
+
+    The competition will consist a cricket match of one over(each inning).
+
+    Each team shall consist of 7 members.
+
+    Each side has to decide on who three players will bat, meaning that the loss of two wickets ends the Super Over.
+
+    There will be one free hit in each inning but can’t be taken on last ball.
+
+    The run made on the last ball will get double.
+
+    There will be league matches.
+</item>
+        <item>
+
+    Team can be of 5 to 8 members
+
+    Drama should be based on meaningful and sensible story conveying a social message
+
+    Duration of performance should be less than 20 minutes
+
+    Judging Criteria includes concept, content ,acting and management .
+
+    Entry Fee :Rs 50 per team
+ </item>
+        <item>
+
+    This is an INDIVIDUAL event and is open to everyone attending UDGAM.
+
+    Entries with offensive or inappropriate content or those which promote any specific brand will be disqualified.
+
+    The photographs submitted must be the genuine, original work of the participant.
+
+    The photographs have to be taken during the fest. No old photographs will be accepted for the contest.
+
+    Any device can be used to capture the photo.
+
+    The copyrights of the pictures will stay with the photographer. However, Udgam team has the right to use the pictures for publicity or other activities.
+
+    Under any circumstance, entries once submitted cannot be taken back for modifications.
+
+    Requests for extending the deadline will not be entertained at any cost.
+
+    The judges’ decision is final.
+
+
+ </item>
+        <item>
+
+    There can be only 2 participants in a team.
+
+    Colours ,brushes etc will be provided organizers.
+
+    Time limit is 90 minutes.
+
+    Participants must come up with a good theme.
+
+    Participants must come up with a good theme.
+
+    Decision of the judges will be final and binding.
+ </item>
+    </string-array>
+
+
+
+
+    <string-array name="description2">
+        <item>
+
+    Group registration should preferably be done online before the start of event.
+
+    Participants can paint their own imagination as there is no restriction on theme.
+
+    Participants should get their designs verified by sending scan copy of it to b160052@nitsikkim.ac.in
+
+    On spot entries are allowed but verification of design needs to be done from the event coordinator before painting on wall.
+
+    Organizers will provide materials for painting.
+
+    The wall dimensions will be informed to the teams registering for event.
+ </item>
+
+        <item>round 1:
+
+    There will be a team of maximum 4 members.
+
+    It will be of 3 rounds.
+
+    There will be a time limit of 1 minute.
+
+    The average time of the team will tie breaker.
+            round 2:A word will be given and the team will have to sing.
+
+The word should be included in the first line.
+
+On singing +10 points, on mistake -5 points, otherwise 0 point
+            round 3:
+
+    Name of a movie will be given  team will have to sing any song from that movie.
+
+    The time limit for thinking will be 30 seconds.
+
+  </item>
+
+        <item>  Each student artist shall be given of maximum of 5 minutes
+
+Participants may mimic sound of machines and speeches of well-known persons including SAYERS (can use sayari while Mono-Acting) etc. Including film personalities.
+
+Mimicry judgment will be based on qualities like idea, creativity of presentation, use of makeup, music  general impression.
+
+Medium of expression will be in Hindi or English.
+
+It should necessarily be cultured and pleasant piece of art.  </item>
+
+        <item>
+
+    Each participant will be given a time of 3 minutes to ponder over the given topic.
+
+    One minute time will be given for elaborating, explaining and presenting views on the given topic.
+
+    Topic will be alloted on lottery basis.
+</item>
+
+
+        <item>  Each team consists of 4 members.
+
+        There are total 4 clues.
+
+        Time provided for finding all clues is 1 hour.
+
+        There will be two rounds. After first round top 8 teams will be selected.
+
+        Selection is based on time taken and if all clues are found in a sequence and at right place.
+
+        Maximum 32 teams can participate. Participation is based on, first come first serve.
+
+        If any team is found picking the clues of other team that team will be eliminated.
+
+        In case of argument committee decision is final.
+
+        Entry fee per team is Rs.40
+ </item>
+
+
+
+        <item> EAM SIZE:- 2(One model and one photographer)
+
+ROUND(S):- DIRECT FINALS
+
+TYPES OF PHOTOGRAPHS TO BE SUBMITTED:-
+
+    selfie
+    candid
+    portraiture
+    fashion photogrpahy
+
+PHOTOS LIMIT:- 4(one from each category)
+
+LAST DATE TO SEND ENTRIES:-18/04/2018
+
+JUDGING CRITERIA:- Relevance to type of photography,compositon,technical accuracy,creativity,message
+
+GENERAL RULES:-
+
+    Camera resolution should be at least 5 MP.
+    Photographs must be clicked on a date later than 04/04/2018.
+    In photo editing only global editing i.e.,cropping and adjustment of hue/saturation,brightness/contrast levels are allowed.
+    Photomorphing,manipulations or local editing,mobile photography or any other apps(B612,beauty plus etc) are not allowed.
+    Any sign of plagiarism will lead to disqualification.
+    The decision of judges or organising committee will be final and binding.
+ </item>
+
+
+
+        <item>   The competitors should approach the table, make themselves comfortable and then grip their opponent's hand. The grip should be palm to palm with the thumb knuckle visible. The competitors other hands should grip their respective hand peg.
+
+Once the referees are happy with the grip from both competitors, the contest will begin. Each competitor should attempt to pin their opponent’s arm onto the touch pad.
+
+Pressure should be in a sideways capacity to force their opponent's hand to the touch pad. Back pressure in an attempt to drag the opponent off toward the centre of the table is not allowed.
+
+The match is won when one competitor pins their opponent’s hand onto the touch pad. At this point, if the head referee is happy that it is a valid pin, they will shout ‘Stop!’ and indicate the inner by immediately raising their arm.
+
+There are numerous fouls that can be committed in Arm Wrestling. These include touching a part of your own body during the match, crossing their shoulder into the opposition area, dropping the shoulder below the height of the touch pad, foul language, abuse or poor sportsmanship to name a few
+
+Two warnings will be consider as one foul and two foul results in disqualification of an opposite participant.</item>
+
+        <item>
+
+    Game to be played individually.
+
+    There will be two rounds.
+
+    You will be given to take out the chit and you have to make advertisement on it .
+
+    The decision of judge will be based on the clarity, performance and facial expression and the decision will be final and will not subjected to any change in any case.
+
+    You will be allocated total of two minutes.First minute to prepare and another one minute to perform.
+
+    The first chit you pick will be final and you can't ask for change.
+
+    Decision of the judges will be final and binding.
+ </item>
+
+
+    </string-array>
+
+    <string-array name="description3">
+        <item>
+
+    There will be three rounds.
+    -Aptitute
+    -Solve the mystery.
+    -Interview
+
+    The partcipant will be judged on the basis of their Personality, Attitude, Problem Solving Skill, Logical Reasoning, and Open minded-ness.
+
+    From each round Participant will shortlisted on the basis of their performance in each round.
+
+    Interested person can mail their entries with name and roll no. to undersigned.
+ </item>
+    <item>Initials of the plot will be given to the participant beforehand.
+
+Each participant will be given a time limit of 10 minutes to frame the story.
+
+Participants need to narrate their story at least till 3 minutes.
+
+No story should be framed in accordance to any pre-heard tale.
+
+You can carry a piece of paper and pen for convenience.
+
+Judgement will be based on how interesting your narration is and how well you end the story.   </item>
+    <item>
+
+    The theme and content should be relevant and must contain a suitable title.
+
+    You can submit Poems, Stories, Riddles etc. that are self-composed.
+
+    The Best compositions will be selected for the college magazine that is to be published later.
+
+    Any kind of copying of ideas or writings will lead to immediate elimination.
+
+    The writings could be in English, Hindi or Nepali.
+
+    Interested participants must mail their respective compositions to the below mentioned Mail IDs of the coordinators.
+
+    The mail should be attached with a proper pdf file of your article.
+ </item>
+    <item> Team can be of 5 to 8 members
+
+Drama should be based on meaningful and sensible story conveying a social message
+
+Duration of performance should be less than 20 minutes
+
+Judging Criteria includes concept, content ,acting and management .   </item>
+    <item>   Try your luck and let the numbers decide your fate. More tickets you got.. more are your chances to win.
+HOW DO YOU WIN ?
+
+    FIRST FIVE
+
+    ROW 1, ROW 2, ROW 3
+
+    HOUSEFULL(...the jackpot)
+
+    more information will be provided at the venue(at the time of gameplay).
+  </item>
+    <item>
+
+    There must be 6 players a side.(5 players + 1 substitute)
+
+    Game will have two halves. 10 minutes each.
+
+    Unlimited Substitution will be allowed.
+
+    golas from kick off is not permitted.
+
+    Goalkeepers have only four seconds in which to play the ball, with their feet, and may not touch it again if it has been deliberately played to them by a team-mate without an opponent playing or touching it. Goalkeepers are also free to play anywhere on the pitch and send the ball beyond the halfway line.
+   </item>
+    <item>
+
+    There must be 5 members per teram
+
+    You need to get the items listed in the list.
+
+    All teams will be provided 90 minutes.
+
+    The team who will get the most , in the least time wins.
+ </item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="Venue">
+        <item>VENUE: H2</item>
+        <item>VENUE: NIT Cricket Ground</item>
+        <item>VENUE: H1</item>
+        <item>VENUE: H4</item>
+        <item>VENUE: NIT Cricket Ground</item>
+        <item>VENUE: MPH</item>
+        <item>VENUE: NIT Sikkim Campus</item>
+        <item>VENUE: Badminton Court</item>
+    </string-array>
+
+
+    <string-array name="Venue2">
+        <item>VENUE: NIT Campus</item>
+        <item>VENUE: H4</item>
+        <item>VENUE: H1</item>
+        <item>VENUE: H2</item>
+        <item>VENUE: Badminton Court</item>
+        <item>VENUE: MPH</item>
+        <item>VENUE: Academic Block</item>
+        <item>VENUE: H2</item>
+    </string-array>
+
+
+    <string-array name="Venue3">
+        <item>VENUE: H4</item>
+        <item>VENUE: H2</item>
+        <item>VENUE: H1</item>
+        <item>VENUE: H2</item>
+        <item>VENUE: Open Stage</item>
+        <item>VENUE: Academics</item>
+        <item>VENUE: Small Play Graund</item>
+        <item>VENUE: NIT Sikkim Campus</item>
+    </string-array>
+
+
+
+
+
+    <string-array name="Date">
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+        <item>DATE:      19/04/2k18</item>
+    </string-array>
+
+
+    <string-array name="Date2">
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+        <item>DATE:      20/04/2k18</item>
+    </string-array>
+
+
+    <string-array name="Date3">
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+        <item>DATE:      21/04/2k18</item>
+    </string-array>
+
+    <string-array name="Time">
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+    </string-array>
+
+    <string-array name="Time2">
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+    </string-array>
+
+    <string-array name="Time3">
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+        <item>TIME:    Yet To Be Decided</item>
+    </string-array>
+
+
+
+    <string-array name="Nu1">
+        <item>7872663667 (Dikshya Soni)</item>
+        <item>8373011107 (Luit Baro)</item>
+        <item>7478293335 (Divyanshi Verma)</item>
+        <item>8906257109 (Narbada Bhagat)</item>
+        <item>9647005345 (Rahul meena)</item>
+        <item>7076269748 (Nikhil Saini)</item>
+        <item>8499855707 (SAI SAGAR GANDRA)</item>
+        <item>9573930331 (N. Shiva Kumar)</item>
+    </string-array>
+
+
+    <string-array name="Nu11">
+        <item>8440895941 (Pritam )</item>
+        <item>8967048167  (Snehal Panchal)</item>
+        <item>8972117473  (Sanyam Chauhan)</item>
+        <item>7478293335  (Divyanshi Verma)</item>
+        <item>7076263915  (Rishabh Mishra)</item>
+        <item>7076249912  (SUMIT KUMAR)</item>
+        <item>7431944193 (Aman Yadav )</item>
+        <item>7478165929 (Prince Raj )</item>
+    </string-array>
+
+
+    <string-array name="Nu111">
+        <item>7063313688  (Prashant Agarwal  )</item>
+        <item>7872663667  (Diksha Soni )</item>
+        <item>7718291263  (RAKESH KUMAR )</item>
+        <item>7076269748  (Nikhil Saini )</item>
+        <item>8371034023  (Manish Kumar)</item>
+        <item>7076249912  (SUMIT KUMAR)</item>
+        <item>8001343949 (Ramesh Limbu.  )</item>
+        <item>9573930331 (N. Shiva Kumar)</item>
+    </string-array>
+
+
+    <string-array name="Nu222">
+        <item>7431941029  (Vivek Kumar )</item>
+        <item>7076263915  (Rishabh Mishra )</item>
+        <item>7076263915  (RISHABH MISHRA )</item>
+        <item>7274926212   (Prasun Rajput )</item>
+        <item>7076455854  (Bittu Jaiswal)</item>
+        <item>7076249912  (SUMIT KUMAR)</item>
+        <item>9547644367 (Emmanuel Dezong Lepcha. )</item>
+        <item>7431944267 (K. Hemant )</item>
+    </string-array>
+
+
+    <string-array name="Nu22">
+        <item>8906257109 (Narbada Bhagat)</item>
+        <item>8016145065 (Priyanka Mishra )</item>
+        <item>8972434913 (Aditya Shekhar )</item>
+        <item>9749312062(Arupratan Gupta )</item>
+        <item>9641156222   (Vipashyana Sharma)</item>
+        <item>8768902827 (ANSHU PRIYA JAIN)</item>
+        <item>8712898396 (Aksheetha )</item>
+        <item>7076116440 (Jalpa Ghimerey)</item>
+    </string-array>
+
+
+    <string-array name="Nu2">
+        <item>7872663667 (Mohit Dutt Mathur)</item>
+        <item>8768268446 (Jitendra Kumar Ram )</item>
+        <item>7718291219 (Mithun Singh )</item>
+        <item>8373065298 (Soni Reshmi)</item>
+        <item>7431941029 (Vivek Kumar)</item>
+        <item>7274926212 (Prasun Rajput)</item>
+        <item>9775815196 (SAI LAKSHMAN KINTHALI)</item>
+        <item>7431877112 (Surya Nihant)</item>
+    </string-array>
+
+
+
+    <string-array name="entry">
+        <item>Entry Fee:   Rs.60 per team of three members.</item>
+        <item>Entry Fee:   Rs.70 per team .</item>
+        <item>Not Decided yet</item>
+        <item>Entry Fee:   Rs.30 per head</item>
+        <item>Entry Fee:   Rs.70 per team.</item>
+        <item>Entry Fee:   Rs.50 per team</item>
+        <item>Not Decided Yet</item>
+        <item>Not Decided Yet</item>
+    </string-array>
+
+    <string-array name="entry2">
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs.20 per participant</item>
+        <item>Entry Fee:   Rs.40 per team.</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs. 30/- per participants.</item>
+        <item>Entry Fee:   Rs 20 per Head</item>
+    </string-array>
+
+
+    <string-array name="entry3">
+        <item>Entry Fee:   Rs 30 per Head</item>
+        <item>Entry Fee:   Rs 20 per Team</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Rs.50 per Team</item>
+        <item>Entry Fee:   Rs.40 per team.</item>
+        <item>Entry Fee:   Not Decided Yet</item>
+        <item>Entry Fee:   Not Decided Yet.</item>
+        <item>Entry Fee:   Not Decided Yet.</item>
+    </string-array>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <string name="title_activity_developer">developer</string>
+
+
+
+    <string name="title">About Us</string>
+    <string name="latest_news">Udgam is annual cultural fest of NIT SIKKIM which is institute of national importance
+    It is oranized in wayto convey message for piece and integrity.This year it is schedulwd to be happen at 19 april 2k18
+    So, please come and see the fest to support the family of NITSIKKIM</string>
+    <string name="date">19, 20, 21 April 2k18</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Hello People!</string>
+    <string name="slide_1_desc">Our Artist : Lalit Singh!"</string>
+
+    <string name="slide_2_title">High Voltage</string>
+    <string name="slide_2_desc">Things are getting heated this Udgam</string>
+
+    <string name="slide_3_title">Organic Udgam</string>
+    <string name="slide_3_desc">Lets us go green this Udgam</string>
+
+    <string name="slide_4_title">UDGAM 2K18 </string>
+    <string name="slide_4_desc">Udgam 2K18 welcomes you all</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>
+
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#ff000000">
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        app:srcCompat="@android:drawable/ic_dialog_email" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="13dp"
+        android:src="@drawable/lalit" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="42dp"
+        android:elevation="1dp"
+        android:text="Lalit Singh is a generic singer who has gained a lot of appreciation for his Pahari Project which is a brain child of Lalit Singh. He sings in the different genre and yet always keeps his roots in mind. \n The young lad is doing great with his music and developing a loyal fan base not only in Himachal but around India. He recently launched his latest Kangna Remix under the name Dil which in just 2 days have garnered more than 12,000 generic hits without any big marketing tactics."
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp" />
+</RelativeLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_events"
+            android:icon="@drawable/ic_event_note_black_24dp"
+            android:title="events" />
+
+        <item
+            android:id="@+id/nav_contacts"
+            android:icon="@drawable/ic_call_black_24dp"
+            android:title="contacts" />
+
+
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_udgam"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="about udgam" />
+
+        <item
+            android:id="@+id/nav_guests"
+            android:icon="@drawable/ic_weekend_black_24dp"
+            android:title="guests" />
+
+        <item
+            android:id="@+id/nav_sponsers"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="sponsers" />
+
+        <item    android:id="@+id/nav_developer"
+            android:icon="@drawable/ic_developer_mode_black_24dp"
+            android:title="developer" />
+
+
+        <item
+            android:id="@+id/nav_demo"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Demo" />
+
+
+        <item
+            android:id="@+id/nav_exit"
+            android:icon="@drawable/ic_keyboard_return_black_24dp"
+            android:title="exit" />
+
+
+    </group>
+
+
+
+</menu>
