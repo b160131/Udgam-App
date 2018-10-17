@@ -23,7 +23,7 @@ public class FoodSponser extends RecyclerView.Adapter<FoodSponser.ViewHolder> {
         mlist = list;
     }
 
-
+// food sponser heading should have been changed
     @Override
     public FoodSponser.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
