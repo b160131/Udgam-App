@@ -57,6 +57,7 @@ public class sponser extends AppCompatActivity {
         sponsersList.add(new ModelSponser(R.drawable.sbi, "SBI","Silver Sponser"));
         sponsersList.add(new ModelSponser(R.drawable.hdfc, "HDFC Bank","Silver Sponser"));
         sponsersList.add(new ModelSponser(R.drawable.intel, "Intel","Silver Sponser"));
+        sponsersList.add(new ModelSponser(R.drawable.ravangal Star, "Ravagla star", "Gold sponser"));
 
 
         LinearLayoutManager linearLayoutManager = new LinearLayoutManager(this);
