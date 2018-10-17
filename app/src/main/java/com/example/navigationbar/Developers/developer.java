@@ -61,7 +61,7 @@ public class developer extends AppCompatActivity
 
 
 
-
+        //developer informations is showing here, total developers of udgam 2018
 
         ListView mlistView = (ListView)findViewById(R.id.listview);
 
